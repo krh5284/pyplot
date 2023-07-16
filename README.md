@@ -1,3 +1,7 @@
+Webmining and Applied NLP
+Northwest Missouri State University
+CSIS 44-620
+Module 3
 # Matplotlib and pyplot
 
 Complete the tasks in the Python Notebook in this repository.
